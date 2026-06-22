@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "A high-performance HTML5 canvas Flappy Bird game with multiple difficulties, bird skins, synthesized audio, and offline high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
